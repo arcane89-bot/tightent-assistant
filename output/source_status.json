@@ -1,0 +1,152 @@
+{
+  "JobsDB Thailand": {
+    "status": "BLOCKED",
+    "reason": "24/24 request(s) failed — blocked by the network egress proxy (CONNECT denied)",
+    "raw": 0
+  },
+  "JobThai": {
+    "status": "BLOCKED",
+    "reason": "12/12 request(s) failed — blocked by the network egress proxy (CONNECT denied)",
+    "raw": 0
+  },
+  "JobBKK": {
+    "status": "BLOCKED",
+    "reason": "12/12 request(s) failed — blocked by the network egress proxy (CONNECT denied)",
+    "raw": 0
+  },
+  "Indeed Thailand": {
+    "status": "BLOCKED",
+    "reason": "12/12 request(s) failed — blocked by the network egress proxy (CONNECT denied)",
+    "raw": 0
+  },
+  "LinkedIn Jobs (public)": {
+    "status": "BLOCKED",
+    "reason": "12/12 request(s) failed — blocked by the network egress proxy (CONNECT denied)",
+    "raw": 0
+  },
+  "Glassdoor Thailand": {
+    "status": "BLOCKED",
+    "reason": "4/4 request(s) failed — blocked by the network egress proxy (CONNECT denied)",
+    "raw": 0
+  },
+  "JobTopGun": {
+    "status": "BLOCKED",
+    "reason": "12/12 request(s) failed — blocked by the network egress proxy (CONNECT denied)",
+    "raw": 0
+  },
+  "Adecco Thailand": {
+    "status": "BLOCKED",
+    "reason": "4/4 request(s) failed — blocked by the network egress proxy (CONNECT denied)",
+    "raw": 0
+  },
+  "Manpower Thailand": {
+    "status": "BLOCKED",
+    "reason": "4/4 request(s) failed — blocked by the network egress proxy (CONNECT denied)",
+    "raw": 0
+  },
+  "Robert Walters Thailand": {
+    "status": "BLOCKED",
+    "reason": "4/4 request(s) failed — blocked by the network egress proxy (CONNECT denied)",
+    "raw": 0
+  },
+  "Michael Page Thailand": {
+    "status": "BLOCKED",
+    "reason": "4/4 request(s) failed — blocked by the network egress proxy (CONNECT denied)",
+    "raw": 0
+  },
+  "Hays Thailand": {
+    "status": "BLOCKED",
+    "reason": "4/4 request(s) failed — blocked by the network egress proxy (CONNECT denied)",
+    "raw": 0
+  },
+  "Career page: Italian-Thai Development": {
+    "status": "BLOCKED",
+    "reason": "1/1 request(s) failed — blocked by the network egress proxy (CONNECT denied)",
+    "raw": 0
+  },
+  "Career page: Ch. Karnchang": {
+    "status": "BLOCKED",
+    "reason": "1/1 request(s) failed — blocked by the network egress proxy (CONNECT denied)",
+    "raw": 0
+  },
+  "Career page: Sino-Thai Engineering": {
+    "status": "BLOCKED",
+    "reason": "1/1 request(s) failed — blocked by the network egress proxy (CONNECT denied)",
+    "raw": 0
+  },
+  "Career page: Nawarat Patanakarn": {
+    "status": "BLOCKED",
+    "reason": "1/1 request(s) failed — blocked by the network egress proxy (CONNECT denied)",
+    "raw": 0
+  },
+  "Career page: Christiani & Nielsen": {
+    "status": "BLOCKED",
+    "reason": "1/1 request(s) failed — blocked by the network egress proxy (CONNECT denied)",
+    "raw": 0
+  },
+  "Career page: Ritta": {
+    "status": "BLOCKED",
+    "reason": "1/1 request(s) failed — blocked by the network egress proxy (CONNECT denied)",
+    "raw": 0
+  },
+  "Career page: Bouygues-Thai": {
+    "status": "BLOCKED",
+    "reason": "1/1 request(s) failed — blocked by the network egress proxy (CONNECT denied)",
+    "raw": 0
+  },
+  "Career page: Pre-Built": {
+    "status": "BLOCKED",
+    "reason": "1/1 request(s) failed — blocked by the network egress proxy (CONNECT denied)",
+    "raw": 0
+  },
+  "Career page: Sansiri": {
+    "status": "BLOCKED",
+    "reason": "1/1 request(s) failed — blocked by the network egress proxy (CONNECT denied)",
+    "raw": 0
+  },
+  "Career page: AP Thailand": {
+    "status": "BLOCKED",
+    "reason": "1/1 request(s) failed — blocked by the network egress proxy (CONNECT denied)",
+    "raw": 0
+  },
+  "Career page: Ananda Development": {
+    "status": "BLOCKED",
+    "reason": "1/1 request(s) failed — blocked by the network egress proxy (CONNECT denied)",
+    "raw": 0
+  },
+  "Career page: Origin Property": {
+    "status": "BLOCKED",
+    "reason": "1/1 request(s) failed — blocked by the network egress proxy (CONNECT denied)",
+    "raw": 0
+  },
+  "Career page: Supalai": {
+    "status": "BLOCKED",
+    "reason": "1/1 request(s) failed — blocked by the network egress proxy (CONNECT denied)",
+    "raw": 0
+  },
+  "Career page: Land & Houses": {
+    "status": "BLOCKED",
+    "reason": "1/1 request(s) failed — blocked by the network egress proxy (CONNECT denied)",
+    "raw": 0
+  },
+  "Career page: SC Asset": {
+    "status": "BLOCKED",
+    "reason": "1/1 request(s) failed — blocked by the network egress proxy (CONNECT denied)",
+    "raw": 0
+  },
+  "Career page: Frasers Property Thailand": {
+    "status": "BLOCKED",
+    "reason": "1/1 request(s) failed — blocked by the network egress proxy (CONNECT denied)",
+    "raw": 0
+  },
+  "Facebook public groups": {
+    "status": "BLOCKED",
+    "reason": "login-gated; public URL returned no readable postings",
+    "raw": 0
+  },
+  "Google site-restricted search": {
+    "status": "BLOCKED",
+    "reason": "12/12 request(s) failed — blocked by the network egress proxy (CONNECT denied)",
+    "raw": 0
+  }
+}
