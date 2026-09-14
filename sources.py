@@ -190,6 +190,33 @@ SOURCES = [
     },
 ]
 
+# Boards discovered during research that were not named in the brief (§2.9 "plus any
+# others you discover"). jobth.com in particular surfaces individual Thai-language
+# site-engineer postings that the larger aggregators bury behind JS.
+SOURCES += [
+    {"name": "JobTH", "kind": "html", "terms": SEARCH_TERMS, "pages": 1,
+     "url": "https://www.jobth.com/search.php?keyword={kw}&province=1",
+     "card": "div[class*=job], tr[class*=job], li",
+     "map": {"title": "a[href*='/งาน/'], a[href*='.html']", "company": "[class*=company]",
+             "location": "[class*=location], [class*=province]",
+             "date": "[class*=date], [class*=update]", "salary": "[class*=salary]", "snippet": "p"},
+     "link": "a[href*='.html']@href", "base": "https://www.jobth.com"},
+    {"name": "JobThaiWeb", "kind": "html", "terms": SEARCH_TERMS, "pages": 1,
+     "url": "https://www.jobthaiweb.com/joblist.php?keyword={kw}",
+     "card": "div[class*=job], tr, li",
+     "map": {"title": "a[href*='jobdetail']", "company": "[class*=company]",
+             "location": "[class*=location]", "date": "[class*=date]",
+             "salary": "[class*=salary]", "snippet": "p"},
+     "link": "a[href*='jobdetail']@href", "base": "https://www.jobthaiweb.com"},
+    {"name": "JobMyWay", "kind": "html", "terms": SEARCH_TERMS[:7], "pages": 1,
+     "url": "https://www.jobmyway.com/job-search?keyword={kw}",
+     "card": "div[class*=job-card], div[class*=jobitem], li",
+     "map": {"title": "a[href*='jobdescription']", "company": "[class*=company]",
+             "location": "[class*=location]", "date": "[class*=date]",
+             "salary": "[class*=salary]", "snippet": "p"},
+     "link": "a[href*='jobdescription']@href", "base": "https://www.jobmyway.com"},
+]
+
 # Agency boards (§2.8) and employer career pages (§2.9) share the generic HTML adapter.
 _GENERIC_MAP = {
     "title": "h2, h3, a", "company": "[class*=company], [class*=employer]",
