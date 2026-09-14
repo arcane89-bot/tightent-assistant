@@ -1,13 +1,27 @@
-title_as_returned,url,source_domain,likely_title_norm,notes,posted_date,date_unknown,verified_http_200,discovered_via
-วิศวกรสนาม ( Site Engineer ) ประจำหน่วยงานเอกมัย,https://www.jobth.com/งาน/0000992040WKBCD.html,jobth.com,Site Engineer,,,1,no,WebSearch
-วิศวกรสนาม (SE),https://www.jobth.com/งาน/0000791259YJMQI.html,jobth.com,Site Engineer,,,1,no,WebSearch
-วิศวกรสนาม (ทำงาน OE) ประจำหน่วยงานเบญจศิริ สถานีพร้อมพงษ์,https://www.jobth.com/งาน/0000404995DNKEJ.html,jobth.com,Site Engineer,,,1,no,WebSearch
-Site Engineer/วิศวกรโครงการ,https://www.jobth.com/งาน/0000999990WOCZT.html,jobth.com,Project Engineer,"search summary claimed Khlong Toei, salary negotiable - UNVERIFIED",,1,no,WebSearch
-"Site Engineer (วิศวกรโยธา, วิศวกรสนาม)",https://www.jobth.com/งาน/0000908903GQMPL.html,jobth.com,Civil Site Engineer,"search summary claimed Bang Khun Thian, 20,000-35,000 THB - UNVERIFIED",,1,no,WebSearch
-วิศวกรสนาม/วิศวกรก่อสร้าง (Site Engineer),https://www.jobth.com/งาน/0000887325MTFBN.html,jobth.com,Site Engineer,"search summary claimed Phaya Thai, 20,000-35,000 THB incl. OT - UNVERIFIED",,1,no,WebSearch
-วิศวกรโยธา (site engineer),https://www.jobth.com/งาน/0001012784DVADW.html,jobth.com,Civil Site Engineer,,,1,no,WebSearch
-"Site Engineer (วิศวกรภาคสนาม) ไฟฟ้า,เครื่องกล",https://www.jobth.com/งาน/0001009383OQAVR.html,jobth.com,M&E Site Engineer,,,1,no,WebSearch
-วิศวกรควบคุมงานก่อสร้าง,https://www.jobth.com/งาน/0000954332FGWSS.html,jobth.com,Site Supervisor,,,1,no,WebSearch
-วิศวกรโครงการ ( PE ) หน่วยงาน ใน กรุงเทพ | บริษัท พรีบิลท์ จำกัด (มหาชน),https://jobbkk.com/jobs/detail/46003/1188113,jobbkk.com,Project Engineer,employer visible in title: Pre-Built PCL (contractor),,1,no,WebSearch
-วิศวกรควบคุมงาน (กรุงเทพและปริมณฑล) บริษัท แลนดี้ โฮม (ประเทศไทย) จำกัด,https://www.jobthaiweb.com/jobdetail.php?JOBID=00161287,jobthaiweb.com,Site Supervisor,employer visible in title: Landy Home (Thailand),,1,no,WebSearch
-หางาน วิศวกรโครงการ (รับสมัครด่วน),https://www.jobmyway.com/jobdescription/11332,jobmyway.com,Project Engineer,,,1,no,WebSearch
+title_as_returned,company_from_title,url,source_domain,likely_title_norm,unverified_claims,posted_date,date_unknown,verified_http_200,discovered_via
+วิศวกรสนาม ( Site Engineer ) ประจำหน่วยงานเอกมัย,,https://www.jobth.com/%E0%B8%87%E0%B8%B2%E0%B8%99/0000992040WKBCD.html,jobth.com,Site Engineer,district Khlong Toei,,1,no,WebSearch
+วิศวกรสนาม (SE),,https://www.jobth.com/%E0%B8%87%E0%B8%B2%E0%B8%99/0000791259YJMQI.html,jobth.com,Site Engineer,district Yan Nawa; 0-2 yrs exp,,1,no,WebSearch
+วิศวกรสนาม (ทำงาน OE) ประจำหน่วยงานเบญจศิริ สถานีพร้อมพงษ์,,https://www.jobth.com/%E0%B8%87%E0%B8%B2%E0%B8%99/0000404995DNKEJ.html,jobth.com,Site Engineer,district Phra Khanong,,1,no,WebSearch
+Site Engineer/วิศวกรโครงการ,,https://www.jobth.com/%E0%B8%87%E0%B8%B2%E0%B8%99/0000999990WOCZT.html,jobth.com,Project Engineer,district Khlong Toei; salary negotiable,,1,no,WebSearch
+"Site Engineer (วิศวกรโยธา, วิศวกรสนาม)",,https://www.jobth.com/%E0%B8%87%E0%B8%B2%E0%B8%99/0000908903GQMPL.html,jobth.com,Civil Site Engineer,"district Bang Khun Thian; 20,000-35,000 THB",,1,no,WebSearch
+วิศวกรสนาม/วิศวกรก่อสร้าง (Site Engineer),,https://www.jobth.com/%E0%B8%87%E0%B8%B2%E0%B8%99/0000887325MTFBN.html,jobth.com,Site Engineer,"district Phaya Thai; 20,000-35,000 THB incl. OT",,1,no,WebSearch
+วิศวกรโยธา (site engineer),,https://www.jobth.com/%E0%B8%87%E0%B8%B2%E0%B8%99/0001012784DVADW.html,jobth.com,Civil Site Engineer,,,1,no,WebSearch
+"Site Engineer (วิศวกรภาคสนาม) ไฟฟ้า,เครื่องกล",,https://www.jobth.com/%E0%B8%87%E0%B8%B2%E0%B8%99/0001009383OQAVR.html,jobth.com,M&E Site Engineer,,,1,no,WebSearch
+วิศวกรควบคุมงานก่อสร้าง,,https://www.jobth.com/%E0%B8%87%E0%B8%B2%E0%B8%99/0000954332FGWSS.html,jobth.com,Site Supervisor,"project Nuvana @ Work, Kasetsart-Nawamin Rd",,1,no,WebSearch
+วิศวกรสนาม,,https://www.jobth.com/%E0%B8%87%E0%B8%B2%E0%B8%99/0001012418ZOPMS.html,jobth.com,Site Engineer,,,1,no,WebSearch
+วิศวกรโยธา,,https://www.jobth.com/%E0%B8%87%E0%B8%B2%E0%B8%99/0000970427AYGGP.html,jobth.com,Civil Site Engineer,district Phra Khanong; PE licence required,,1,no,WebSearch
+วิศวกรโยธา/อาคาร (ด่วน),,https://www.jobth.com/%E0%B8%87%E0%B8%B2%E0%B8%99/0000968270KNUMR.html,jobth.com,Civil Site Engineer,,,1,no,WebSearch
+วิศวกรโยธา (สามัญวิศวกร),,https://www.jobth.com/%E0%B8%87%E0%B8%B2%E0%B8%99/0000920824FISGA.html,jobth.com,Civil Site Engineer,"may be a design/licence role, not site-based",,1,no,WebSearch
+วิศวกรโยธาปฏิบัติการ,,https://www.jobth.com/%E0%B8%87%E0%B8%B2%E0%B8%99/0000960445GIJBK.html,jobth.com,Civil Site Engineer,"district Bang Khen; 17,500-19,250 THB",,1,no,WebSearch
+วิศวกรโยธา (ภาคีวิศวกรโยธา),,https://www.jobth.com/%E0%B8%87%E0%B8%B2%E0%B8%99/0000854489RSHPF.html,jobth.com,Civil Site Engineer,district Yan Nawa,,1,no,WebSearch
+วิศวกรโยธา,,https://www.jobth.com/%E0%B8%87%E0%B8%B2%E0%B8%99/0000505022BLNOT.html,jobth.com,Civil Site Engineer,,,1,no,WebSearch
+วิศวกรสนาม (Site Engineer),บริษัท 27 วิศวกรรม จำกัด,https://jobbkk.com/jobs/detail/24072/559694,jobbkk.com,Site Engineer,"Bangkok, all districts; salary by agreement",,1,no,WebSearch
+วิศวกรสนาม Site Engineer,บริษัท เฉิงไท่ แอ็ดไวซอรี จํากัด,https://jobbkk.com/jobs/detail/220987/1231116,jobbkk.com,Site Engineer,"district Prawet 10250; 20,000-30,000 THB",,1,no,WebSearch
+วิศวกรสนาม (Site Engineer) (รับนักศึกษาจบใหม่),บริษัท พรีบิลท์ จำกัด (มหาชน),https://www.jobbkk.com/jobs/detail/46003/510207,jobbkk.com,Site Engineer,contractor; new graduates welcome,,1,no,WebSearch
+วิศวกรโครงการ ( PE ) หน่วยงาน ใน กรุงเทพ,บริษัท พรีบิลท์ จำกัด (มหาชน),https://jobbkk.com/jobs/detail/46003/1188113,jobbkk.com,Project Engineer,contractor; 5+ yrs exp,,1,no,WebSearch
+"วิศวกรสนาม (Site Engineer) สาขาเครื่องกล,ไฟฟ้า (ประจำโครงการกรุงเทพ)",บริษัท จาร์ดีน เอ็นจิเนียริ่ง จำกัด,https://jobbkk.com/jobs/detail/29532/911265,jobbkk.com,M&E Site Engineer,"SPE Tower, Phaya Thai 10400",,1,no,WebSearch
+วิศวกรสนาม (Site Engineer),บริษัท ฟ้าชวนดีเวลล็อปเมนต์ จำกัด,https://jobbkk.com/jobs/detail/53601/617134,jobbkk.com,Site Engineer,,,1,no,WebSearch
+วิศวกรโยธา วิศวกรโครงการ และรองผู้จัดการโครงการ,บริษัท ซี.อี.เอส. จำกัด,https://jobbkk.com/jobs/detail/7342/885700,jobbkk.com,Project Engineer,summary claims last updated 2026-08-28 -> would fall OUTSIDE a 5-day window,,1,no,WebSearch
+วิศวกรสนาม งานสถาปัตย์ (สมุทรปราการ),บริษัท เวล เกรด เอ็นจิเนียริ่ง จำกัด (มหาชน),https://www.jobbkk.com/jobs/detailurgent/54186/1096630?action=urgently_jobs,jobbkk.com,Site Engineer,Mueang Samut Prakan; 2 openings,,1,no,WebSearch
+วิศวกรควบคุมงาน (กรุงเทพและปริมณฑล),บริษัท แลนดี้ โฮม (ประเทศไทย) จำกัด,https://www.jobthaiweb.com/jobdetail.php?JOBID=00161287,jobthaiweb.com,Site Supervisor,,,1,no,WebSearch
+หางาน วิศวกรโครงการ (รับสมัครด่วน),,https://www.jobmyway.com/jobdescription/11332,jobmyway.com,Project Engineer,,,1,no,WebSearch
